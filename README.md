@@ -10,5 +10,5 @@ React web app using OpenStreetMap API
 * node 8.12.0
 
 ## Result
-[Github io link](https://apiacere.github.io/openstreetmap-example/)
+[Github io link](https://apiacere.github.io/openstreetmap-example/)  
 ![result](app.png)
