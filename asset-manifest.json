@@ -1,0 +1,13 @@
+{
+  "main.css": "/openstreetmap-example/static/css/main.9d27b980.chunk.css",
+  "main.js": "/openstreetmap-example/static/js/main.7890b0be.chunk.js",
+  "main.js.map": "/openstreetmap-example/static/js/main.7890b0be.chunk.js.map",
+  "static/js/1.cb764843.chunk.js": "/openstreetmap-example/static/js/1.cb764843.chunk.js",
+  "static/js/1.cb764843.chunk.js.map": "/openstreetmap-example/static/js/1.cb764843.chunk.js.map",
+  "runtime~main.js": "/openstreetmap-example/static/js/runtime~main.5b053922.js",
+  "runtime~main.js.map": "/openstreetmap-example/static/js/runtime~main.5b053922.js.map",
+  "static/css/main.9d27b980.chunk.css.map": "/openstreetmap-example/static/css/main.9d27b980.chunk.css.map",
+  "index.html": "/openstreetmap-example/index.html",
+  "precache-manifest.b6dfe751a052d87a8e911c2029936e16.js": "/openstreetmap-example/precache-manifest.b6dfe751a052d87a8e911c2029936e16.js",
+  "service-worker.js": "/openstreetmap-example/service-worker.js"
+}
